@@ -1,0 +1,65 @@
+.modal-container {
+  display: flex;
+  justify-content: space-between;
+}
+.edit-container {
+  flex-grow: 0.4;
+}
+.edit-modal:where(.css-dev-only-do-not-override-42nv3w).ant-modal
+  .ant-modal-content {
+  padding: 25px 0 20px 15px;
+}
+.edit-container .edit-icons > span > svg {
+  margin-right: 7px;
+  color: rgb(116, 116, 175);
+}
+.edit-container div {
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  width: 238px;
+  align-items: center;
+}
+.edit-container .header-container {
+  display: flex;
+  margin: 0 20px 15px 0;
+  justify-content: space-between;
+}
+.edit-container .header-container input {
+  width: 250px;
+}
+.edit-container-input {
+    width: 400px
+}
+.edit-label-container {
+  width: 130px;
+}
+.edit-text {
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(116, 116, 175);
+  margin-right: 40px;
+}
+.edit-text-first {
+    margin-right: 60px;
+}
+.activity-container {
+  flex-grow: 0.8;
+  background-color: rgb(234, 234, 234);
+}
+.select-edit {
+  width: 100px;
+}
+.edit-container-input p {
+    width: 456px
+}
+.header-container-edit {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

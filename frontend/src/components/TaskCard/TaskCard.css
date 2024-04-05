@@ -1,0 +1,18 @@
+.card-task > .edit-icons > span > svg {
+  margin-right: 7px;
+}
+.card-task > .edit-text {
+  color: rgb(116, 116, 175);
+}
+.card-task .task-description {
+    white-space: nowrap;
+    overflow: hidden;
+    color: rgb(116, 116, 175);
+    text-overflow: ellipsis;
+}
+.card-task .ant-card-body {
+    padding: 0 20px 0 20px;
+}
+.card-task .tag-priority {
+    margin-bottom: 12px;
+}

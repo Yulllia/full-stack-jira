@@ -1,0 +1,11 @@
+.task-list {
+    margin: 15px 15px 0 25px;
+}
+.task-list-container {
+    height: 800px;
+    overflow-y: scroll;
+}
+.title-header {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,14 @@
+.header-divider-container {
+    display: flex;
+    justify-content: space-between;
+}
+.header-divider-container span {
+    font-size: 16px;
+    color: black;
+    font-weight: 450;
+    margin-right: 15px;
+}
+
+:where(.css-dev-only-do-not-override-42nv3w).ant-modal-root .ant-modal-mask {
+    background-color: rgb(0 0 0 / 5%);
+}
